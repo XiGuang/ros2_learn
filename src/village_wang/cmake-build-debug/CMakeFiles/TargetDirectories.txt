@@ -1,0 +1,11 @@
+/home/xiguang/Documents/town_ws/src/village_wang/cmake-build-debug/CMakeFiles/village_wang_uninstall.dir
+/home/xiguang/Documents/town_ws/src/village_wang/cmake-build-debug/CMakeFiles/install/strip.dir
+/home/xiguang/Documents/town_ws/src/village_wang/cmake-build-debug/CMakeFiles/list_install_components.dir
+/home/xiguang/Documents/town_ws/src/village_wang/cmake-build-debug/CMakeFiles/install.dir
+/home/xiguang/Documents/town_ws/src/village_wang/cmake-build-debug/CMakeFiles/install/local.dir
+/home/xiguang/Documents/town_ws/src/village_wang/cmake-build-debug/CMakeFiles/uninstall.dir
+/home/xiguang/Documents/town_ws/src/village_wang/cmake-build-debug/CMakeFiles/test.dir
+/home/xiguang/Documents/town_ws/src/village_wang/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/xiguang/Documents/town_ws/src/village_wang/cmake-build-debug/CMakeFiles/wang3_node.dir
+/home/xiguang/Documents/town_ws/src/village_wang/cmake-build-debug/CMakeFiles/wang2_node.dir
+/home/xiguang/Documents/town_ws/src/village_wang/cmake-build-debug/CMakeFiles/rebuild_cache.dir
